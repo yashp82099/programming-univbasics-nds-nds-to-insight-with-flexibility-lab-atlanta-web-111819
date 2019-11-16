@@ -58,7 +58,7 @@ def movies_with_director_key(name, movies_collection)
     x += 1 
   end 
   
-  pp array
+  #pp array
   
   
 end
