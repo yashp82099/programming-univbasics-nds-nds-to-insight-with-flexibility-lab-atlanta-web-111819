@@ -49,7 +49,7 @@ def movies_with_director_key(name, movies_collection)
   # :director_name key. This addition can be done by using the provided
   # movie_with_director_name method
   #pp movies_collection[0][:title]
-  pp movies_collection[1][:title]
+  pp movies_collection[1][:ti
   
   
   
