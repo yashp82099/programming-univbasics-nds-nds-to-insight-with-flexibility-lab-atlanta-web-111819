@@ -51,12 +51,7 @@ def movies_with_director_key(name, movies_collection)
   #pp movies_collection[0][:title]
   #pp movies_collection[1][:title]
   
-  array = []
-  x = 0 
-  while x < movies_collection.length do 
-    array.push(movie_with_director_name(name, movies_collection[x]))
-    x += 1 
-  end 
+  p movies_collection
   
   #pp array
   
